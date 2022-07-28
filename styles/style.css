@@ -1,0 +1,9 @@
+.myimage{
+    filter: brightness(50%);
+}
+
+
+.font-banner{
+    font-size: 70px;
+    font-weight: 600;
+}
