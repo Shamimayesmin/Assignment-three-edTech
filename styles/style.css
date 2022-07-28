@@ -2,10 +2,22 @@
     filter: brightness(50%);
 }
 
-
+.myslide{
+    height:600px;
+}
 
 
 .font-banner{
     font-size: 70px;
     font-weight: 600;
 }
+
+
+
+
+
+@media (max-width: 992px) {
+    .hide-banner {
+      display: none;
+    }
+  }
